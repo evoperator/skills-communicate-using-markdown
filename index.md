@@ -16,3 +16,7 @@ print('A Very Useful Block of Code')
 ```cs
 Console.WriteLine("Me not know how to Sharp a C");
 ```
+
+- [x] Start using markdown to communicate course!
+- [x] Complete this step
+- [ ] Complete the course!
